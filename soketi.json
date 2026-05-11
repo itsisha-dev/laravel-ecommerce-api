@@ -1,0 +1,18 @@
+{
+  "port": 6001,
+  "appManager": {
+    "driver": "array",
+    "apps": [
+      {
+        "id": "2140599",
+        "key": "e72aecd16d878e292f3a",
+        "secret": "6a21c4588b49a87f1012",
+        "enabled": true,
+        "enableClientMessages": true,
+        "enableStatistics": true
+      }
+    ]
+  }
+}
+
+
